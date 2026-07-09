@@ -1,0 +1,26 @@
+customer_id,age,state,annual_income,employment_status,credit_score,years_credit_hist,num_credit_lines,credit_utilization,dti_ratio,accounts_delinquent,public_records,credit_tier,product_type,loan_amount,interest_rate,approval_status,loan_status,origination_qtr,monthly_payment,scorecard_score,logistic_pd,rf_pd,final_pd,lgd,ead,expected_loss,risk_tier,stress_el_mild,stress_el_severe,model_decision,default_label
+1,34,CA,72000,Employed,720,8,4,0.22,0.31,0,0,Prime,Personal Loan,15000,0.0999,Approved,Active,Q1-2022,318.00,720,0.048,0.041,0.044,0.45,15000,297.00,Low Risk,430.65,623.70,Approve,0
+2,28,TX,48000,Employed,645,4,2,0.58,0.42,1,0,Near Prime,Credit Card,8000,0.1999,Approved,Active,Q2-2022,296.00,612,0.142,0.156,0.149,0.65,8000,775.00,Moderate Risk,1123.75,1821.25,Conditional,0
+3,45,NY,110000,Employed,780,15,6,0.12,0.22,0,0,Super Prime,Personal Loan,25000,0.0699,Approved,Active,Q3-2022,495.00,795,0.018,0.014,0.016,0.35,25000,140.00,Low Risk,203.00,329.00,Approve,0
+4,23,FL,32000,Part-Time,590,2,1,0.71,0.55,2,1,Subprime,Auto Loan,12000,0.1499,Approved,Defaulted,Q3-2022,334.00,548,0.285,0.312,0.298,0.75,12000,2683.00,High Risk,3889.35,6305.05,Decline,1
+5,38,IL,85000,Employed,755,12,5,0.18,0.28,0,0,Prime,Personal Loan,20000,0.0899,Approved,Active,Q4-2022,415.00,742,0.038,0.032,0.035,0.45,20000,315.00,Low Risk,456.75,740.25,Approve,0
+6,52,OH,62000,Self-Employed,690,20,7,0.35,0.38,0,0,Prime,Auto Loan,18000,0.0999,Approved,Active,Q1-2023,382.00,688,0.065,0.071,0.068,0.45,18000,551.00,Moderate Risk,798.95,1294.35,Approve,0
+7,29,GA,41000,Employed,615,3,2,0.65,0.48,1,0,Subprime,Credit Card,5000,0.1999,Approved,Charged-Off,Q2-2023,254.00,578,0.218,0.245,0.231,0.75,5000,866.00,High Risk,1255.70,2033.10,Decline,1
+8,41,WA,95000,Employed,810,18,8,0.09,0.19,0,0,Super Prime,Personal Loan,30000,0.0699,Approved,Active,Q3-2023,455.00,825,0.009,0.007,0.008,0.35,30000,84.00,Low Risk,121.80,197.40,Approve,0
+9,35,AZ,55000,Employed,670,7,3,0.41,0.36,0,0,Near Prime,Auto Loan,14000,0.1099,Approved,Active,Q4-2023,363.00,665,0.078,0.082,0.080,0.45,14000,504.00,Moderate Risk,730.80,1183.80,Conditional,0
+10,26,NC,38000,Unemployed,542,1,1,0.88,0.62,3,2,Deep Subprime,Personal Loan,6000,0.1999,Declined,N/A,Q1-2024,0.00,498,0.342,0.389,0.365,0.75,6000,1643.00,High Risk,2381.35,3855.05,Decline,1
+11,31,CA,58000,Employed,695,6,3,0.38,0.35,0,0,Prime,Personal Loan,12000,0.0999,Approved,Active,Q1-2022,255.00,695,0.062,0.058,0.060,0.45,12000,324.00,Moderate Risk,469.80,760.20,Approve,0
+12,44,TX,92000,Employed,758,14,7,0.15,0.24,0,0,Prime,Auto Loan,22000,0.0899,Approved,Active,Q2-2022,456.00,758,0.034,0.029,0.031,0.35,22000,238.00,Low Risk,345.10,558.90,Approve,0
+13,27,FL,35000,Part-Time,598,2,1,0.68,0.52,1,0,Subprime,Credit Card,4000,0.1999,Approved,Active,Q2-2022,199.00,598,0.265,0.289,0.277,0.75,4000,831.00,High Risk,1204.95,1950.85,Decline,1
+14,39,NY,88000,Employed,742,11,5,0.21,0.27,0,0,Prime,Personal Loan,18000,0.0899,Approved,Active,Q3-2022,373.00,742,0.042,0.038,0.040,0.45,18000,324.00,Low Risk,469.80,760.20,Approve,0
+15,33,IL,64000,Employed,678,8,4,0.32,0.34,0,0,Near Prime,Auto Loan,16000,0.1099,Approved,Active,Q4-2022,348.00,678,0.072,0.078,0.075,0.35,16000,420.00,Moderate Risk,609.00,986.00,Conditional,0
+16,48,OH,75000,Self-Employed,715,16,6,0.25,0.31,0,0,Prime,Personal Loan,14000,0.0999,Approved,Active,Q1-2023,298.00,715,0.052,0.047,0.049,0.45,14000,308.00,Low Risk,446.60,723.80,Approve,0
+17,25,GA,29000,Employed,562,1,1,0.82,0.58,2,1,Deep Subprime,Credit Card,3000,0.2499,Declined,N/A,Q2-2023,0.00,462,0.389,0.412,0.400,0.75,3000,900.00,High Risk,1305.00,2115.00,Decline,1
+18,36,WA,82000,Employed,748,10,5,0.19,0.26,0,0,Prime,Auto Loan,20000,0.0899,Approved,Active,Q3-2023,415.00,748,0.040,0.035,0.037,0.35,20000,259.00,Low Risk,375.55,608.65,Approve,0
+19,42,AZ,67000,Employed,682,9,4,0.29,0.33,0,0,Near Prime,Personal Loan,11000,0.0999,Approved,Active,Q4-2023,234.00,682,0.068,0.074,0.071,0.45,11000,351.00,Moderate Risk,508.95,824.85,Conditional,0
+20,30,NC,43000,Employed,632,4,2,0.55,0.44,1,0,Near Prime,Credit Card,6000,0.1799,Approved,Active,Q1-2024,152.00,632,0.125,0.138,0.131,0.65,6000,512.00,Moderate Risk,742.40,1202.20,Conditional,0
+21,55,CA,120000,Employed,820,22,9,0.08,0.18,0,0,Super Prime,Personal Loan,35000,0.0649,Approved,Active,Q1-2022,534.00,820,0.007,0.005,0.006,0.35,35000,73.50,Low Risk,106.58,172.73,Approve,0
+22,29,TX,44000,Employed,638,3,2,0.52,0.46,1,0,Near Prime,Auto Loan,10000,0.1199,Approved,Active,Q2-2022,335.00,638,0.118,0.128,0.123,0.35,10000,430.50,Moderate Risk,624.23,1011.68,Conditional,0
+23,37,FL,71000,Employed,708,9,4,0.28,0.32,0,0,Prime,Personal Loan,16000,0.0999,Approved,Active,Q3-2022,340.00,708,0.056,0.051,0.053,0.45,16000,381.60,Low Risk,553.32,896.76,Approve,0
+24,43,NY,96000,Self-Employed,762,13,6,0.14,0.23,0,0,Prime,Auto Loan,24000,0.0849,Approved,Active,Q4-2022,476.00,762,0.031,0.027,0.029,0.35,24000,243.60,Low Risk,353.22,572.26,Approve,0
+25,26,IL,36000,Part-Time,578,2,1,0.75,0.54,2,0,Subprime,Credit Card,3500,0.2199,Approved,Defaulted,Q1-2023,108.00,578,0.242,0.268,0.255,0.75,3500,669.38,High Risk,970.60,1573.04,Decline,1
