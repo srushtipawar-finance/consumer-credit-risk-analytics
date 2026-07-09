@@ -1,0 +1,8 @@
+Feature,IV,Predictive Power
+credit_score,13.7477,Very Strong
+credit_utilization,13.7477,Very Strong
+dti_ratio,13.7477,Very Strong
+annual_income,13.7477,Very Strong
+years_credit_hist,13.7477,Very Strong
+num_credit_lines,13.3307,Very Strong
+accounts_delinquent,6.6014,Very Strong

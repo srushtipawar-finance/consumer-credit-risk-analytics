@@ -1,0 +1,8 @@
+Feature,Importance
+credit_utilization,0.2520646381217493
+credit_score,0.23048923679060665
+dti_ratio,0.17
+annual_income,0.11
+num_credit_lines,0.1092722602739726
+years_credit_hist,0.09
+accounts_delinquent,0.038173864813671424

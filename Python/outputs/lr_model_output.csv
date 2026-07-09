@@ -1,0 +1,26 @@
+customer_id,credit_score,product_type,lr_pd_pct,risk_tier,loan_status,loan_amount
+1,720,Personal Loan,0.7,Low Risk,Active,15000
+2,645,Credit Card,28.41,Moderate Risk,Active,8000
+3,780,Personal Loan,0.05,Low Risk,Active,25000
+4,590,Auto Loan,87.35,High Risk,Defaulted,12000
+5,755,Personal Loan,0.21,Low Risk,Active,20000
+6,690,Auto Loan,0.77,Moderate Risk,Active,18000
+7,615,Credit Card,52.15,High Risk,Charged-Off,5000
+8,810,Personal Loan,0.02,Low Risk,Active,30000
+9,670,Auto Loan,4.18,Moderate Risk,Active,14000
+10,542,Personal Loan,98.02,High Risk,,6000
+11,695,Personal Loan,2.95,Moderate Risk,Active,12000
+12,758,Auto Loan,0.08,Low Risk,Active,22000
+13,598,Credit Card,70.71,High Risk,Active,4000
+14,742,Personal Loan,0.24,Low Risk,Active,18000
+15,678,Auto Loan,1.85,Moderate Risk,Active,16000
+16,715,Personal Loan,0.35,Low Risk,Active,14000
+17,562,Credit Card,94.28,High Risk,,3000
+18,748,Auto Loan,0.24,Low Risk,Active,20000
+19,682,Personal Loan,1.38,Moderate Risk,Active,11000
+20,632,Credit Card,33.15,Moderate Risk,Active,6000
+21,820,Personal Loan,0.01,Low Risk,Active,35000
+22,638,Auto Loan,33.45,Moderate Risk,Active,10000
+23,708,Personal Loan,0.95,Low Risk,Active,16000
+24,762,Auto Loan,0.09,Low Risk,Active,24000
+25,578,Credit Card,88.4,High Risk,Defaulted,3500
